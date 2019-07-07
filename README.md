@@ -1,6 +1,6 @@
 # Balcony railing clamp
 
-![screenshot](https://github.com/panovvv/balcony-railing-clamp/raw/master/media/assembly.png?raw=true)
+![assembly](https://github.com/panovvv/balcony-railing-clamp/raw/master/media/assembly.png?raw=true)
 
 Just something I'd designed to mount all kinds of things on my balcony.
 Utilizes laser-cut plywood and threaded rods for generic support structure,
@@ -8,8 +8,12 @@ and 3D-printed part(s) to mount specific devices. Right now there's only
 one, and it's an action cam style mounting bracket (think GoPro and numerous clones).
 
 ## BOM and detailed instructions
+
+![bom](https://github.com/panovvv/balcony-railing-clamp/raw/master/media/bom.jpg?raw=true)
+
 * 10cm pieces of M6 threaded rods x 7
 * M6 nuts x 28
+* Washers x 10
 * Laser-cut plywood parts from this repo x 3
 * Mounting gizmo to actually mount something on top of plywood: 3D-printed from this repo or custom x1
 
