@@ -7,6 +7,8 @@ Utilizes laser-cut plywood and threaded rods for generic support structure,
 and 3D-printed part(s) to mount specific devices. Right now there's only
 one, and it's an action cam style mounting bracket (think GoPro and numerous clones).
 
+![turntable animation](https://github.com/panovvv/balcony-railing-clamp/raw/master/media/turntable.gif?raw=true)
+
 ## BOM and detailed instructions
 
 ![bom](https://github.com/panovvv/balcony-railing-clamp/raw/master/media/bom.jpg?raw=true)
@@ -35,3 +37,4 @@ Modeled with Autodesk Inventor 2018
 
 ## TODO
 * Exploded view IPN file, render assembly instructions with it.
+* Ready drawings for common threaded rod sizes: M4, M6, M8.
